@@ -6,9 +6,12 @@
 - Implemented a user-friendly interface that promotes ease of use and encourages self-monitoring of health conditions
 -  Ensured data integrity and security by utilizing the SQLite3 database for efficient storage and retrieval of user data
 - Presented the project to faculty members and received positive feedback for its innovative approach, robust functionality, and potential impact on healthcare management
-
+## ---> My Telegram : https://t.me/Kirito_x_0
 ![preview img](img/home.png)
 ![preview img](img/summary.png)
 ![preview img](img/dash.png)
 ![preview img](img/Sym_panel.png)
 ![preview img](img/predicated.png)
+
+
+
