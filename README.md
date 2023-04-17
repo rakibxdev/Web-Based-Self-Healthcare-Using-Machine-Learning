@@ -8,3 +8,8 @@
 - Presented the project to faculty members and received positive feedback for its innovative approach, robust functionality, and potential impact on healthcare management
 
 ![preview img](img/home.png)
+![preview img](img/summary.png)
+![preview img](img/contact.png)
+![preview img](img/dash.png)
+![preview img](img/Sym_panel.png)
+![preview img](img/predicated.png)
